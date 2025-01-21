@@ -1,1 +1,3 @@
-pwd
+
+
+echo "this is b1"
